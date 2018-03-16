@@ -1,0 +1,45 @@
+2018/01/31 09:20:08 [I]  *     不使用代理IP
+
+2018/01/31 09:20:08 [I]  *     执行任务总数(任务数[*自定义配置数])为 1 个
+
+2018/01/31 09:20:08 [I]  *     采集引擎池容量为 1
+
+2018/01/31 09:20:08 [I]  *     并发协程最多 20 个
+
+2018/01/31 09:20:08 [I]  *     默认随机停顿 5000~20000 毫秒
+
+2018/01/31 09:20:08 [P]  *                                                                                                 —— 开始抓取，请耐心等候 ——
+2018/01/31 09:20:08 [I]  *********************************************************************************************************************************** 
+2018/01/31 09:37:41 [D]  *     Start: https://login.sina.com.cn/sso/prelogin.php?entry=account&callback=sinaSSOController.preloginCallBack&su=ODY0NjQ2Mjc5QHFxLmNvbQ==&rsakt=mod&client=ssologin.js(v1.4.15)&_=1517361608642447
+2018/01/31 09:37:41 [I]  *     Success: https://login.sina.com.cn/sso/prelogin.php?entry=account&callback=sinaSSOController.preloginCallBack&su=ODY0NjQ2Mjc5QHFxLmNvbQ==&rsakt=mod&client=ssologin.js(v1.4.15)&_=1517361608642447
+
+2018/01/31 09:37:54 [D]  *     Start: https://login.sina.com.cn/sso/login.php?client=ssologin.js(v1.4.15)&_=1517362661789862
+2018/01/31 09:37:54 [I]  *     Success: https://login.sina.com.cn/sso/login.php?client=ssologin.js(v1.4.15)&_=1517362661789862
+
+2018/01/31 09:38:01 [D]  *     Start: https://passport.weibo.cn/sso/crossdomain?action=login&savestate=1
+2018/01/31 09:38:01 [I]  *     Success: https://passport.weibo.cn/sso/crossdomain?action=login&savestate=1
+
+2018/01/31 09:38:12 [D]  *     Start: https://weibo.cn/
+2018/01/31 09:38:13 [I]  *     Success: https://weibo.cn/
+
+2018/01/31 09:38:30 [D]  *     Start: https://passport.weibo.cn/sso/crossdomain?service=sinawap&display=0&ssosavestate=1548898672&url=https%3A%2F%2Fweibo.cn%2F%3Fsudaref%3Dweibo.cn&display=0&ticket=ST-NTU3NDQwMjE3MQ==-1517362691-tc-B011C198B4D46455E2A2B87385875558-1&retcode=0
+2018/01/31 09:38:31 [I]  *     Success: https://passport.weibo.cn/sso/crossdomain?service=sinawap&display=0&ssosavestate=1548898672&url=https%3A%2F%2Fweibo.cn%2F%3Fsudaref%3Dweibo.cn&display=0&ticket=ST-NTU3NDQwMjE3MQ==-1517362691-tc-B011C198B4D46455E2A2B87385875558-1&retcode=0
+
+2018/01/31 09:38:38 [D]  *     Start: https://h5.sinaimg.cn/upload/2015/05/15/28/WeiboLogoCh.svg
+2018/01/31 09:38:38 [I]  *     Success: https://h5.sinaimg.cn/upload/2015/05/15/28/WeiboLogoCh.svg
+
+2018/01/31 09:38:55 [D]  *     Start: https://weibo.cn/search/mblog?hideSearchFrame=&keyword=捉妖记2&advancedfilter=1&starttime=220180112&endtime=20180112&sort=time&page=1
+2018/01/31 09:38:55 [I]  *     Success: https://weibo.cn/search/mblog?hideSearchFrame=&keyword=捉妖记2&advancedfilter=1&starttime=220180112&endtime=20180112&sort=time&page=1
+
+2018/01/31 09:39:09 [D]  *     Start: https://weibo.cn/search/mblog?hideSearchFrame=&keyword=捉妖记2&advancedfilter=1&starttime=220180112&endtime=20180112&sort=time&page=2
+2018/01/31 09:39:09 [I]  *     Success: https://weibo.cn/search/mblog?hideSearchFrame=&keyword=捉妖记2&advancedfilter=1&starttime=220180112&endtime=20180112&sort=time&page=2
+
+2018/01/31 09:39:17 [D]  *     Start: https://weibo.cn/search/mblog?hideSearchFrame=&keyword=捉妖记2&advancedfilter=1&starttime=220180112&endtime=20180112&sort=time&page=3
+2018/01/31 09:39:17 [I]  *     Success: https://weibo.cn/search/mblog?hideSearchFrame=&keyword=捉妖记2&advancedfilter=1&starttime=220180112&endtime=20180112&sort=time&page=3
+
+2018/01/31 09:39:26 [D]  *     Start: https://weibo.cn/search/mblog?hideSearchFrame=&keyword=捉妖记2&advancedfilter=1&starttime=220180112&endtime=20180112&sort=time&page=4
+2018/01/31 09:39:27 [I]  *     Success: https://weibo.cn/search/mblog?hideSearchFrame=&keyword=捉妖记2&advancedfilter=1&starttime=220180112&endtime=20180112&sort=time&page=4
+
+2018/01/31 09:39:42 [D]  *     Start: https://weibo.cn/search/mblog?hideSearchFrame=&keyword=捉妖记2&advancedfilter=1&starttime=220180112&endtime=20180112&sort=time&page=5
+2018/01/31 09:39:42 [I]  *     Success: https://weibo.cn/search/mblog?hideSearchFrame=&keyword=捉妖记2&advancedfilter=1&starttime=220180112&endtime=20180112&sort=time&page=5
+
